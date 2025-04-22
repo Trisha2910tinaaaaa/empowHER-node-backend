@@ -22,7 +22,11 @@ const corsOptions = {
     "http://localhost:3000",
     "http://127.0.0.1:3000",
     "https://localhost:3000",
-    // Add development/production URLs if needed
+    "https://empow-her.vercel.app",
+    "https://empowher.vercel.app",
+    "https://empowher-six.vercel.app",
+    "https://empowher-git-main-trisha2910tinaaaaas-projects.vercel.app",
+    "https://empowher-cu3enmcsd-trisha2910tinaaaaas-projects.vercel.app",
   ],
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS",
   credentials: true,
